@@ -85,9 +85,7 @@ Une implémentation classique du jeu Snake pour Raspberry Pi Pico utilisant un �
 5. Appuyer sur le bouton START pour commencer à jouer
 
 ---
-## Video du projet
-
-[Vidéo](https://www.youtube.com/shorts/PtAVaX5iCIk)
+## [Vidéo du projet](https://www.youtube.com/shorts/PtAVaX5iCIk)
 ---
 
 Authors 
